@@ -4,3 +4,6 @@ I've chosen pair BTC/USD to train my model.
 Model predicts trend of price one step ahead. It works in 5 minutes timeframe.
 Today (01.11.2021) my different models are showing an accuracy about 52% for 3 variants of trend: positive, negative, neutral.
 I think, I have to change data treatment to improve prediction accuracy.
+
+You can see training process of different architectures in 5M+15M_different_networks.ipynb
+5 min and 15 min timeframe data have used as input of models. Models emit one step ahead prediction.  
