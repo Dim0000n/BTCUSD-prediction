@@ -1,0 +1,6 @@
+Hello, my friends. 
+I'm developing trading-bot with Neural Networks technologies here. 
+I've chosen pair BTC/USD to train my model.
+Model predicts trend of price one step ahead. It works in 5 minutes timeframe.
+Today (01.11.2021) my different models are showing an accuracy about 52% for 3 variants of trend: positive, negative, neutral.
+I think, I have to change data treatment to improve prediction accuracy.
